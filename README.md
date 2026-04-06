@@ -2,7 +2,7 @@
 
 Portfolio profesional de Diego Leyes - Desarrollador Web & Consultor Digital
 
-Desplegado en Vercel: [Tu URL aquí]
+Desplegado en Vercel: https://portfolio-web-gules-rho.vercel.app/
 
 ## Contenido
 
